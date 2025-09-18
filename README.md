@@ -33,4 +33,4 @@ Dataset downloaded from Kaggle (Financial Data & Cash-Flow records).
 🖼️ Preview  
 Below is a preview of the **dashboard front page** showcasing KPIs, charts, and interactive filters for quick financial insights:  
 
-![Dashboard Preview]([[https://github.com/yourusername/your-repo/blob/main/screenshots/dashboard.png?raw=true](https://github.com/Khushikumari-1920/Financial-Data-Dashboard/blob/main/Screenshot%202025-09-18%20204607.png](https://github.com/Khushikumari-1920/Financial-Data-Dashboard/blob/main/Screenshot%202025-09-18%20204607.png)))  
+![Dashboard Preview](https://github.com/Khushikumari-1920/Financial-Data-Dashboard/blob/main/Screenshot%202025-09-18%20204607.png)  
