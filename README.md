@@ -30,7 +30,7 @@ Dataset downloaded from Kaggle (Financial Data & Cash-Flow records).
 🔍 Interactive Filters – Enables drill-down by time period, category, or department.
 
 📉 Trend Analysis – Identifies financial growth patterns over time.
-🖼️ Preview  
-Below is a preview of the **dashboard front page** showcasing KPIs, charts, and interactive filters for quick financial insights:  
+
+🖼️ Preview - Below is a preview of the **dashboard front page** showcasing KPIs, charts, and interactive filters for quick financial insights:  
 
 ![Dashboard Preview](https://github.com/Khushikumari-1920/Financial-Data-Dashboard/blob/main/Screenshot%202025-09-18%20204607.png)  
